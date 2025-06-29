@@ -3,7 +3,7 @@ from openai import OpenAI
 import json
 import os
 import requests
-from pypdf import PdfReader
+from PyPDF2 import PdfReader
 import gradio as gr
 
 
